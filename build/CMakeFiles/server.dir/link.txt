@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/server.dir/server.cpp.o CMakeFiles/server.dir/addressbook.pb.cc.o  -o server -lprotobuf -lboost_regex -lboost_system 
